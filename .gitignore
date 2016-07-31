@@ -8,6 +8,8 @@
 *~
 _autosave-*
 *.tmp
+*bak
+*bck
 
 # Netlist files (exported from Eeschema)
 *.net
