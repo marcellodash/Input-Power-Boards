@@ -16,5 +16,5 @@ OSH Park detects a 2 layer board of 1.65x1.03 inches (42x26mm). $8.40 for three.
 |U1|1|IC REG LDO 5V 1A NCP7805 TO220AB|ON Semi|NCP7805TG|NCP7805TGOS-ND|
 |U2|1|IC REG LDO 3.3V 1A LD1117 TO220AB|STM|LD1117AV33|497-1485-5-ND|
 
-<img src="th/oshpreview.png">
+<img src="oshpreview.png">
 
